@@ -4,7 +4,10 @@ This is another line.
 
 Project Contributors:
 
-Ken. 
-Bill. 
-Andy. 
+Ken.
+
+Bill.
+
+Andy.
+
 Wathik. 
